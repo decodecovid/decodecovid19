@@ -1,0 +1,6131 @@
+[
+  {
+    "unique_id1": "Q16538",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.088,
+    "pcp_ne": 0.791,
+    "pcp_po": 0.211,
+    "pcp_np": 0.561,
+    "result": 0
+  },
+  {
+    "unique_id1": "P25398",
+    "pcp_pc": 0.182,
+    "pcp_nc": 0.159,
+    "pcp_ne": 0.659,
+    "pcp_po": 0.144,
+    "pcp_np": 0.485,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T1Q4",
+    "pcp_pc": 0.086,
+    "pcp_nc": 0.069,
+    "pcp_ne": 0.846,
+    "pcp_po": 0.235,
+    "pcp_np": 0.583,
+    "result": 0
+  },
+  {
+    "unique_id1": "P35658",
+    "pcp_pc": 0.08,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.853,
+    "pcp_po": 0.317,
+    "pcp_np": 0.509,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q92985",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.207,
+    "pcp_np": 0.557,
+    "result": 1
+  },
+  {
+    "unique_id1": "P05014",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.741,
+    "pcp_po": 0.265,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62277",
+    "pcp_pc": 0.245,
+    "pcp_nc": 0.079,
+    "pcp_ne": 0.675,
+    "pcp_po": 0.179,
+    "pcp_np": 0.477,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q1L6U9",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.072,
+    "pcp_ne": 0.813,
+    "pcp_po": 0.266,
+    "pcp_np": 0.54,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q50KZ9",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.033,
+    "pcp_ne": 0.842,
+    "pcp_po": 0.224,
+    "pcp_np": 0.581,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T4T1",
+    "pcp_pc": 0.091,
+    "pcp_nc": 0.03,
+    "pcp_ne": 0.879,
+    "pcp_po": 0.189,
+    "pcp_np": 0.667,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6A1A2",
+    "pcp_pc": 0.154,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.207,
+    "pcp_np": 0.497,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14457",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.167,
+    "pcp_ne": 0.707,
+    "pcp_po": 0.247,
+    "pcp_np": 0.407,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4G0A6",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.251,
+    "pcp_np": 0.45,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2TBC4",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.765,
+    "pcp_po": 0.291,
+    "pcp_np": 0.451,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BTX1",
+    "pcp_pc": 0.108,
+    "pcp_nc": 0.058,
+    "pcp_ne": 0.834,
+    "pcp_po": 0.27,
+    "pcp_np": 0.53,
+    "result": 1
+  },
+  {
+    "unique_id1": "P10321",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.262,
+    "pcp_np": 0.464,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VYS4",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.762,
+    "pcp_po": 0.231,
+    "pcp_np": 0.485,
+    "result": 0
+  },
+  {
+    "unique_id1": "P29597",
+    "pcp_pc": 0.153,
+    "pcp_nc": 0.117,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.205,
+    "pcp_np": 0.503,
+    "result": 1
+  },
+  {
+    "unique_id1": "P06748",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.221,
+    "pcp_ne": 0.622,
+    "pcp_po": 0.19,
+    "pcp_np": 0.401,
+    "result": 1
+  },
+  {
+    "unique_id1": "O43187",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.235,
+    "pcp_np": 0.485,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NWZ8",
+    "pcp_pc": 0.182,
+    "pcp_nc": 0.149,
+    "pcp_ne": 0.669,
+    "pcp_po": 0.285,
+    "pcp_np": 0.36,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q14681",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.741,
+    "pcp_po": 0.194,
+    "pcp_np": 0.51,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6R2W3",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.244,
+    "pcp_np": 0.414,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P2I3",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.777,
+    "pcp_po": 0.178,
+    "pcp_np": 0.564,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q13485",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.774,
+    "pcp_po": 0.255,
+    "pcp_np": 0.484,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q09472",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.074,
+    "pcp_ne": 0.812,
+    "pcp_po": 0.287,
+    "pcp_np": 0.474,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWT4",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.184,
+    "pcp_ne": 0.678,
+    "pcp_po": 0.161,
+    "pcp_np": 0.494,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15399",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.256,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5JRM2",
+    "pcp_pc": 0.177,
+    "pcp_nc": 0.086,
+    "pcp_ne": 0.737,
+    "pcp_po": 0.307,
+    "pcp_np": 0.374,
+    "result": 0
+  },
+  {
+    "unique_id1": "O60573",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.131,
+    "pcp_ne": 0.698,
+    "pcp_po": 0.212,
+    "pcp_np": 0.424,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T0D9",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.768,
+    "pcp_po": 0.202,
+    "pcp_np": 0.529,
+    "result": 0
+  },
+  {
+    "unique_id1": "O43318",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.277,
+    "pcp_np": 0.434,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q01628",
+    "pcp_pc": 0.09,
+    "pcp_nc": 0.06,
+    "pcp_ne": 0.85,
+    "pcp_po": 0.218,
+    "pcp_np": 0.579,
+    "result": 1
+  },
+  {
+    "unique_id1": "P26715",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.27,
+    "pcp_np": 0.408,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6QEF8",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.199,
+    "pcp_np": 0.494,
+    "result": 0
+  },
+  {
+    "unique_id1": "O15393",
+    "pcp_pc": 0.1,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.829,
+    "pcp_po": 0.276,
+    "pcp_np": 0.488,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2VIR3",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.186,
+    "pcp_np": 0.528,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01185",
+    "pcp_pc": 0.098,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.793,
+    "pcp_po": 0.256,
+    "pcp_np": 0.512,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8NFH3",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.266,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2PZI1",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.074,
+    "pcp_ne": 0.797,
+    "pcp_po": 0.207,
+    "pcp_np": 0.561,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2MJR0",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.783,
+    "pcp_po": 0.227,
+    "pcp_np": 0.551,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5HYI7",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.779,
+    "pcp_po": 0.221,
+    "pcp_np": 0.51,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q12769",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.24,
+    "pcp_np": 0.493,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q96P20",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.237,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "P20701",
+    "pcp_pc": 0.113,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.232,
+    "pcp_np": 0.507,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15436",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.786,
+    "pcp_po": 0.254,
+    "pcp_np": 0.499,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2VPB7",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.8,
+    "pcp_po": 0.171,
+    "pcp_np": 0.622,
+    "result": 0
+  },
+  {
+    "unique_id1": "O15504",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.073,
+    "pcp_ne": 0.827,
+    "pcp_po": 0.281,
+    "pcp_np": 0.487,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9Y4K3",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.722,
+    "pcp_po": 0.255,
+    "pcp_np": 0.427,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P4F7",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.245,
+    "pcp_np": 0.408,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UKV8",
+    "pcp_pc": 0.165,
+    "pcp_nc": 0.093,
+    "pcp_ne": 0.742,
+    "pcp_po": 0.239,
+    "pcp_np": 0.477,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TEC6",
+    "pcp_pc": 0.243,
+    "pcp_nc": 0.081,
+    "pcp_ne": 0.676,
+    "pcp_po": 0.206,
+    "pcp_np": 0.463,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q17RB0",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.15,
+    "pcp_ne": 0.717,
+    "pcp_po": 0.159,
+    "pcp_np": 0.531,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9C0D3",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.222,
+    "pcp_np": 0.487,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8WXD5",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.156,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.222,
+    "pcp_np": 0.443,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15036",
+    "pcp_pc": 0.143,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.249,
+    "pcp_np": 0.46,
+    "result": 1
+  },
+  {
+    "unique_id1": "P37198",
+    "pcp_pc": 0.067,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.858,
+    "pcp_po": 0.322,
+    "pcp_np": 0.502,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T215",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.702,
+    "pcp_po": 0.21,
+    "pcp_np": 0.453,
+    "result": 0
+  },
+  {
+    "unique_id1": "P40337",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.192,
+    "pcp_ne": 0.676,
+    "pcp_po": 0.16,
+    "pcp_np": 0.474,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q99567",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.719,
+    "pcp_po": 0.215,
+    "pcp_np": 0.478,
+    "result": 1
+  },
+  {
+    "unique_id1": "O95992",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.055,
+    "pcp_ne": 0.812,
+    "pcp_po": 0.228,
+    "pcp_np": 0.559,
+    "result": 1
+  },
+  {
+    "unique_id1": "P05161",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.788,
+    "pcp_po": 0.236,
+    "pcp_np": 0.527,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UW32",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.073,
+    "pcp_ne": 0.8,
+    "pcp_po": 0.309,
+    "pcp_np": 0.464,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3BBV0",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.204,
+    "pcp_ne": 0.649,
+    "pcp_po": 0.245,
+    "pcp_np": 0.366,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q66LE6",
+    "pcp_pc": 0.163,
+    "pcp_nc": 0.15,
+    "pcp_ne": 0.687,
+    "pcp_po": 0.216,
+    "pcp_np": 0.415,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01569",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.265,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q14164",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.739,
+    "pcp_po": 0.225,
+    "pcp_np": 0.48,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9HBF4",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.709,
+    "pcp_po": 0.243,
+    "pcp_np": 0.425,
+    "result": 1
+  },
+  {
+    "unique_id1": "P51149",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.739,
+    "pcp_po": 0.227,
+    "pcp_np": 0.449,
+    "result": 1
+  },
+  {
+    "unique_id1": "P02649",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.161,
+    "pcp_ne": 0.685,
+    "pcp_po": 0.202,
+    "pcp_np": 0.479,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NSZ9",
+    "pcp_pc": 0.182,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.686,
+    "pcp_po": 0.215,
+    "pcp_np": 0.46,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8TEM1",
+    "pcp_pc": 0.109,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.802,
+    "pcp_po": 0.242,
+    "pcp_np": 0.533,
+    "result": 1
+  },
+  {
+    "unique_id1": "P17844",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.215,
+    "pcp_np": 0.456,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6T310",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.236,
+    "pcp_np": 0.492,
+    "result": 0
+  },
+  {
+    "unique_id1": "P46783",
+    "pcp_pc": 0.218,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.673,
+    "pcp_po": 0.145,
+    "pcp_np": 0.503,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NR97",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.774,
+    "pcp_po": 0.232,
+    "pcp_np": 0.452,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15391",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.05,
+    "pcp_ne": 0.831,
+    "pcp_po": 0.26,
+    "pcp_np": 0.53,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62841",
+    "pcp_pc": 0.248,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.655,
+    "pcp_po": 0.179,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "P08708",
+    "pcp_pc": 0.207,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.667,
+    "pcp_po": 0.178,
+    "pcp_np": 0.444,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q68DU8",
+    "pcp_pc": 0.173,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.687,
+    "pcp_po": 0.262,
+    "pcp_np": 0.4,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q63HK3",
+    "pcp_pc": 0.192,
+    "pcp_nc": 0.139,
+    "pcp_ne": 0.669,
+    "pcp_po": 0.241,
+    "pcp_np": 0.403,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9ULC8",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.792,
+    "pcp_po": 0.222,
+    "pcp_np": 0.545,
+    "result": 1
+  },
+  {
+    "unique_id1": "O14745",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.154,
+    "pcp_ne": 0.696,
+    "pcp_po": 0.187,
+    "pcp_np": 0.466,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NYK1",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.236,
+    "pcp_np": 0.459,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6IV72",
+    "pcp_pc": 0.243,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.648,
+    "pcp_po": 0.283,
+    "pcp_np": 0.351,
+    "result": 0
+  },
+  {
+    "unique_id1": "O95721",
+    "pcp_pc": 0.167,
+    "pcp_nc": 0.171,
+    "pcp_ne": 0.663,
+    "pcp_po": 0.217,
+    "pcp_np": 0.407,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q17RF5",
+    "pcp_pc": 0.185,
+    "pcp_nc": 0.062,
+    "pcp_ne": 0.754,
+    "pcp_po": 0.254,
+    "pcp_np": 0.469,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q58FF8",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.218,
+    "pcp_ne": 0.622,
+    "pcp_po": 0.218,
+    "pcp_np": 0.367,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3SY77",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.174,
+    "pcp_np": 0.553,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62318",
+    "pcp_pc": 0.19,
+    "pcp_nc": 0.079,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.167,
+    "pcp_np": 0.5,
+    "result": 1
+  },
+  {
+    "unique_id1": "O43353",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.117,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.241,
+    "pcp_np": 0.448,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8N5C8",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.076,
+    "pcp_ne": 0.802,
+    "pcp_po": 0.333,
+    "pcp_np": 0.42,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62308",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.105,
+    "pcp_ne": 0.737,
+    "pcp_po": 0.118,
+    "pcp_np": 0.553,
+    "result": 1
+  },
+  {
+    "unique_id1": "P0CG47",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.144,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.227,
+    "pcp_np": 0.445,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TDP6",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.741,
+    "pcp_po": 0.24,
+    "pcp_np": 0.446,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5RIA9",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.17,
+    "pcp_ne": 0.704,
+    "pcp_po": 0.205,
+    "pcp_np": 0.456,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JUX0",
+    "pcp_pc": 0.167,
+    "pcp_nc": 0.143,
+    "pcp_ne": 0.69,
+    "pcp_po": 0.209,
+    "pcp_np": 0.457,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PB30",
+    "pcp_pc": 0.205,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.718,
+    "pcp_po": 0.231,
+    "pcp_np": 0.462,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VZP5",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.183,
+    "pcp_ne": 0.66,
+    "pcp_po": 0.255,
+    "pcp_np": 0.376,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5GH76",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.082,
+    "pcp_ne": 0.812,
+    "pcp_po": 0.254,
+    "pcp_np": 0.54,
+    "result": 0
+  },
+  {
+    "unique_id1": "P23284",
+    "pcp_pc": 0.176,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.13,
+    "pcp_np": 0.542,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8NFH4",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.218,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q58FF7",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.214,
+    "pcp_ne": 0.633,
+    "pcp_po": 0.191,
+    "pcp_np": 0.409,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5HYJ1",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.047,
+    "pcp_ne": 0.796,
+    "pcp_po": 0.262,
+    "pcp_np": 0.496,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6IPR1",
+    "pcp_pc": 0.244,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.644,
+    "pcp_po": 0.156,
+    "pcp_np": 0.411,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62081",
+    "pcp_pc": 0.216,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.665,
+    "pcp_po": 0.16,
+    "pcp_np": 0.469,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWM7",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.764,
+    "pcp_po": 0.228,
+    "pcp_np": 0.494,
+    "result": 0
+  },
+  {
+    "unique_id1": "P09601",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.208,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P1L8",
+    "pcp_pc": 0.179,
+    "pcp_nc": 0.048,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.207,
+    "pcp_np": 0.51,
+    "result": 0
+  },
+  {
+    "unique_id1": "P68104",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.173,
+    "pcp_np": 0.517,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q01629",
+    "pcp_pc": 0.091,
+    "pcp_nc": 0.061,
+    "pcp_ne": 0.848,
+    "pcp_po": 0.22,
+    "pcp_np": 0.576,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9H910",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.195,
+    "pcp_np": 0.489,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q13568",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.765,
+    "pcp_po": 0.207,
+    "pcp_np": 0.53,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62333",
+    "pcp_pc": 0.175,
+    "pcp_nc": 0.154,
+    "pcp_ne": 0.671,
+    "pcp_po": 0.167,
+    "pcp_np": 0.473,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZMY3",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.227,
+    "pcp_np": 0.517,
+    "result": 0
+  },
+  {
+    "unique_id1": "P08047",
+    "pcp_pc": 0.071,
+    "pcp_nc": 0.054,
+    "pcp_ne": 0.875,
+    "pcp_po": 0.345,
+    "pcp_np": 0.468,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWW9",
+    "pcp_pc": 0.075,
+    "pcp_nc": 0.089,
+    "pcp_ne": 0.836,
+    "pcp_po": 0.247,
+    "pcp_np": 0.568,
+    "result": 0
+  },
+  {
+    "unique_id1": "P17302",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.243,
+    "pcp_np": 0.482,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q495X7",
+    "pcp_pc": 0.163,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.715,
+    "pcp_po": 0.251,
+    "pcp_np": 0.416,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62753",
+    "pcp_pc": 0.285,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.61,
+    "pcp_po": 0.181,
+    "pcp_np": 0.402,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62273",
+    "pcp_pc": 0.25,
+    "pcp_nc": 0.036,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.286,
+    "pcp_np": 0.393,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q695T7",
+    "pcp_pc": 0.063,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.86,
+    "pcp_po": 0.241,
+    "pcp_np": 0.576,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2TAP0",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.749,
+    "pcp_po": 0.293,
+    "pcp_np": 0.437,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PIS1",
+    "pcp_pc": 0.077,
+    "pcp_nc": 0.046,
+    "pcp_ne": 0.877,
+    "pcp_po": 0.239,
+    "pcp_np": 0.623,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T871",
+    "pcp_pc": 0.163,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.367,
+    "pcp_np": 0.347,
+    "result": 0
+  },
+  {
+    "unique_id1": "P09958",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.773,
+    "pcp_po": 0.253,
+    "pcp_np": 0.479,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXB4",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.229,
+    "pcp_np": 0.485,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9Y572",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.782,
+    "pcp_po": 0.234,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "P49327",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.777,
+    "pcp_po": 0.215,
+    "pcp_np": 0.536,
+    "result": 1
+  },
+  {
+    "unique_id1": "P53992",
+    "pcp_pc": 0.092,
+    "pcp_nc": 0.081,
+    "pcp_ne": 0.826,
+    "pcp_po": 0.267,
+    "pcp_np": 0.522,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q49B96",
+    "pcp_pc": 0.211,
+    "pcp_nc": 0.144,
+    "pcp_ne": 0.644,
+    "pcp_po": 0.189,
+    "pcp_np": 0.4,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3KQU3",
+    "pcp_pc": 0.206,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.656,
+    "pcp_po": 0.218,
+    "pcp_np": 0.421,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5BJD5",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.058,
+    "pcp_ne": 0.825,
+    "pcp_po": 0.206,
+    "pcp_np": 0.595,
+    "result": 1
+  },
+  {
+    "unique_id1": "O43447",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.78,
+    "pcp_po": 0.169,
+    "pcp_np": 0.554,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5H9U9",
+    "pcp_pc": 0.163,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.716,
+    "pcp_po": 0.219,
+    "pcp_np": 0.451,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8NFH5",
+    "pcp_pc": 0.098,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.831,
+    "pcp_po": 0.285,
+    "pcp_np": 0.531,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q58FG1",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.175,
+    "pcp_ne": 0.675,
+    "pcp_po": 0.22,
+    "pcp_np": 0.411,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VTE6",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.108,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.248,
+    "pcp_np": 0.439,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q68DH5",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.77,
+    "pcp_po": 0.243,
+    "pcp_np": 0.478,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2T9K0",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.093,
+    "pcp_ne": 0.787,
+    "pcp_po": 0.255,
+    "pcp_np": 0.516,
+    "result": 0
+  },
+  {
+    "unique_id1": "P49754",
+    "pcp_pc": 0.164,
+    "pcp_nc": 0.163,
+    "pcp_ne": 0.673,
+    "pcp_po": 0.194,
+    "pcp_np": 0.443,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q17RY6",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.2,
+    "pcp_np": 0.521,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3B8N2",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.053,
+    "pcp_ne": 0.826,
+    "pcp_po": 0.253,
+    "pcp_np": 0.528,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14CX5",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.058,
+    "pcp_ne": 0.841,
+    "pcp_po": 0.217,
+    "pcp_np": 0.598,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5FWE3",
+    "pcp_pc": 0.108,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.807,
+    "pcp_po": 0.186,
+    "pcp_np": 0.606,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6YFQ2",
+    "pcp_pc": 0.17,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.739,
+    "pcp_po": 0.284,
+    "pcp_np": 0.398,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q32M78",
+    "pcp_pc": 0.226,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.642,
+    "pcp_po": 0.29,
+    "pcp_np": 0.322,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q52WX2",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.167,
+    "pcp_np": 0.568,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q68DN1",
+    "pcp_pc": 0.202,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.702,
+    "pcp_po": 0.301,
+    "pcp_np": 0.38,
+    "result": 0
+  },
+  {
+    "unique_id1": "P31946",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.179,
+    "pcp_ne": 0.691,
+    "pcp_po": 0.24,
+    "pcp_np": 0.394,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5R387",
+    "pcp_pc": 0.168,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.765,
+    "pcp_po": 0.329,
+    "pcp_np": 0.416,
+    "result": 0
+  },
+  {
+    "unique_id1": "O95486",
+    "pcp_pc": 0.091,
+    "pcp_nc": 0.07,
+    "pcp_ne": 0.84,
+    "pcp_po": 0.28,
+    "pcp_np": 0.501,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4U2R6",
+    "pcp_pc": 0.242,
+    "pcp_nc": 0.07,
+    "pcp_ne": 0.688,
+    "pcp_po": 0.086,
+    "pcp_np": 0.539,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q53T59",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.168,
+    "pcp_ne": 0.696,
+    "pcp_po": 0.181,
+    "pcp_np": 0.505,
+    "result": 0
+  },
+  {
+    "unique_id1": "P27348",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.18,
+    "pcp_ne": 0.694,
+    "pcp_po": 0.237,
+    "pcp_np": 0.408,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXN2",
+    "pcp_pc": 0.1,
+    "pcp_nc": 0.035,
+    "pcp_ne": 0.865,
+    "pcp_po": 0.325,
+    "pcp_np": 0.505,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T6L9",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.108,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.239,
+    "pcp_np": 0.49,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9NYJ8",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.799,
+    "pcp_po": 0.317,
+    "pcp_np": 0.408,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6J272",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.252,
+    "pcp_np": 0.479,
+    "result": 0
+  },
+  {
+    "unique_id1": "P17405",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.799,
+    "pcp_po": 0.206,
+    "pcp_np": 0.561,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5FYB0",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.255,
+    "pcp_np": 0.467,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UWL2",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.782,
+    "pcp_po": 0.273,
+    "pcp_np": 0.459,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q96JC1",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.203,
+    "pcp_np": 0.474,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NUS8",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.193,
+    "pcp_np": 0.545,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q86WV6",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.792,
+    "pcp_po": 0.243,
+    "pcp_np": 0.512,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62244",
+    "pcp_pc": 0.2,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.708,
+    "pcp_po": 0.131,
+    "pcp_np": 0.523,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T653",
+    "pcp_pc": 0.18,
+    "pcp_nc": 0.052,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.18,
+    "pcp_np": 0.538,
+    "result": 0
+  },
+  {
+    "unique_id1": "P26022",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.753,
+    "pcp_po": 0.192,
+    "pcp_np": 0.525,
+    "result": 1
+  },
+  {
+    "unique_id1": "P07711",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.745,
+    "pcp_po": 0.222,
+    "pcp_np": 0.465,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9Y6K9",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.174,
+    "pcp_ne": 0.656,
+    "pcp_po": 0.243,
+    "pcp_np": 0.403,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3KNT9",
+    "pcp_pc": 0.148,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.244,
+    "pcp_np": 0.511,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q587J7",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.217,
+    "pcp_np": 0.47,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JU69",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.181,
+    "pcp_np": 0.551,
+    "result": 0
+  },
+  {
+    "unique_id1": "P59046",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.223,
+    "pcp_np": 0.487,
+    "result": 1
+  },
+  {
+    "unique_id1": "P52948",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.786,
+    "pcp_po": 0.271,
+    "pcp_np": 0.468,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q63HM1",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.766,
+    "pcp_po": 0.228,
+    "pcp_np": 0.515,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8TD47",
+    "pcp_pc": 0.213,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.703,
+    "pcp_po": 0.156,
+    "pcp_np": 0.506,
+    "result": 1
+  },
+  {
+    "unique_id1": "P29350",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.242,
+    "pcp_np": 0.427,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q17RN3",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.181,
+    "pcp_np": 0.559,
+    "result": 0
+  },
+  {
+    "unique_id1": "O14980",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.216,
+    "pcp_np": 0.486,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5MJ09",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.248,
+    "pcp_ne": 0.652,
+    "pcp_po": 0.284,
+    "pcp_np": 0.284,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9H270",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.715,
+    "pcp_po": 0.244,
+    "pcp_np": 0.437,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TYM5",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.268,
+    "pcp_np": 0.443,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VXT5",
+    "pcp_pc": 0.096,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.805,
+    "pcp_po": 0.239,
+    "pcp_np": 0.54,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q69YU5",
+    "pcp_pc": 0.183,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.704,
+    "pcp_po": 0.183,
+    "pcp_np": 0.521,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9Y397",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.794,
+    "pcp_po": 0.228,
+    "pcp_np": 0.519,
+    "result": 1
+  },
+  {
+    "unique_id1": "P17693",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.737,
+    "pcp_po": 0.231,
+    "pcp_np": 0.488,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5JQC4",
+    "pcp_pc": 0.094,
+    "pcp_nc": 0.229,
+    "pcp_ne": 0.677,
+    "pcp_po": 0.132,
+    "pcp_np": 0.514,
+    "result": 0
+  },
+  {
+    "unique_id1": "P84022",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.245,
+    "pcp_np": 0.464,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5W0U4",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.736,
+    "pcp_po": 0.221,
+    "pcp_np": 0.49,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UHD2",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.211,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9ULZ3",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.749,
+    "pcp_po": 0.195,
+    "pcp_np": 0.528,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62633",
+    "pcp_pc": 0.198,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.667,
+    "pcp_po": 0.299,
+    "pcp_np": 0.339,
+    "result": 1
+  },
+  {
+    "unique_id1": "A8CG34",
+    "pcp_pc": 0.097,
+    "pcp_nc": 0.045,
+    "pcp_ne": 0.858,
+    "pcp_po": 0.312,
+    "pcp_np": 0.526,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q67FW5",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.731,
+    "pcp_po": 0.214,
+    "pcp_np": 0.488,
+    "result": 0
+  },
+  {
+    "unique_id1": "O43765",
+    "pcp_pc": 0.096,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.776,
+    "pcp_po": 0.236,
+    "pcp_np": 0.476,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8TF66",
+    "pcp_pc": 0.09,
+    "pcp_nc": 0.072,
+    "pcp_ne": 0.838,
+    "pcp_po": 0.236,
+    "pcp_np": 0.518,
+    "result": 1
+  },
+  {
+    "unique_id1": "P61088",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.151,
+    "pcp_np": 0.546,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15937",
+    "pcp_pc": 0.181,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.305,
+    "pcp_np": 0.378,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6DHY5",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.716,
+    "pcp_po": 0.215,
+    "pcp_np": 0.483,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01563",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.117,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.277,
+    "pcp_np": 0.457,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q562R1",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.213,
+    "pcp_np": 0.508,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PDA7",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.057,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.211,
+    "pcp_np": 0.537,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q96AX1",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.195,
+    "pcp_np": 0.49,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6PJQ5",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.154,
+    "pcp_ne": 0.72,
+    "pcp_po": 0.244,
+    "pcp_np": 0.431,
+    "result": 0
+  },
+  {
+    "unique_id1": "P12270",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.188,
+    "pcp_ne": 0.66,
+    "pcp_po": 0.261,
+    "pcp_np": 0.36,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T2E6",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.749,
+    "pcp_po": 0.218,
+    "pcp_np": 0.476,
+    "result": 0
+  },
+  {
+    "unique_id1": "P29466",
+    "pcp_pc": 0.136,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.728,
+    "pcp_po": 0.235,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TC12",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.753,
+    "pcp_po": 0.216,
+    "pcp_np": 0.503,
+    "result": 0
+  },
+  {
+    "unique_id1": "P25963",
+    "pcp_pc": 0.107,
+    "pcp_nc": 0.164,
+    "pcp_ne": 0.729,
+    "pcp_po": 0.233,
+    "pcp_np": 0.457,
+    "result": 1
+  },
+  {
+    "unique_id1": "O14920",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.245,
+    "pcp_np": 0.442,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9H269",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.131,
+    "pcp_ne": 0.72,
+    "pcp_po": 0.2,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "P05015",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.254,
+    "pcp_np": 0.481,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8N884",
+    "pcp_pc": 0.19,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.69,
+    "pcp_po": 0.201,
+    "pcp_np": 0.452,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q16552",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.761,
+    "pcp_po": 0.213,
+    "pcp_np": 0.445,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2M3G4",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.769,
+    "pcp_po": 0.214,
+    "pcp_np": 0.54,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6B0K9",
+    "pcp_pc": 0.113,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.801,
+    "pcp_po": 0.206,
+    "pcp_np": 0.582,
+    "result": 0
+  },
+  {
+    "unique_id1": "P08238",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.203,
+    "pcp_ne": 0.631,
+    "pcp_po": 0.184,
+    "pcp_np": 0.409,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NY19",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.141,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.206,
+    "pcp_np": 0.518,
+    "result": 0
+  },
+  {
+    "unique_id1": "P52630",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.736,
+    "pcp_po": 0.231,
+    "pcp_np": 0.469,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NVV7",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.756,
+    "pcp_po": 0.309,
+    "pcp_np": 0.423,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T0L3",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.107,
+    "pcp_ne": 0.762,
+    "pcp_po": 0.31,
+    "pcp_np": 0.421,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q70EL3",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.77,
+    "pcp_po": 0.31,
+    "pcp_np": 0.419,
+    "result": 1
+  },
+  {
+    "unique_id1": "P0CG48",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.145,
+    "pcp_ne": 0.698,
+    "pcp_po": 0.223,
+    "pcp_np": 0.448,
+    "result": 1
+  },
+  {
+    "unique_id1": "P13164",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.064,
+    "pcp_ne": 0.824,
+    "pcp_po": 0.216,
+    "pcp_np": 0.576,
+    "result": 1
+  },
+  {
+    "unique_id1": "P49792",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.722,
+    "pcp_po": 0.251,
+    "pcp_np": 0.425,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q99623",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.207,
+    "pcp_np": 0.502,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15847",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.776,
+    "pcp_po": 0.289,
+    "pcp_np": 0.474,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6VUC0",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.088,
+    "pcp_ne": 0.783,
+    "pcp_po": 0.181,
+    "pcp_np": 0.586,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VXH4",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.233,
+    "pcp_np": 0.489,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15612",
+    "pcp_pc": 0.102,
+    "pcp_nc": 0.032,
+    "pcp_ne": 0.866,
+    "pcp_po": 0.264,
+    "pcp_np": 0.57,
+    "result": 0
+  },
+  {
+    "unique_id1": "O75694",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.777,
+    "pcp_po": 0.241,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZMV9",
+    "pcp_pc": 0.167,
+    "pcp_nc": 0.144,
+    "pcp_ne": 0.689,
+    "pcp_po": 0.232,
+    "pcp_np": 0.415,
+    "result": 0
+  },
+  {
+    "unique_id1": "P15880",
+    "pcp_pc": 0.177,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.747,
+    "pcp_po": 0.181,
+    "pcp_np": 0.553,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P9H5",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.171,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.226,
+    "pcp_np": 0.438,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UBF8",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.233,
+    "pcp_np": 0.462,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5J5C9",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.079,
+    "pcp_ne": 0.776,
+    "pcp_po": 0.329,
+    "pcp_np": 0.434,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q32MH5",
+    "pcp_pc": 0.153,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.29,
+    "pcp_np": 0.378,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15935",
+    "pcp_pc": 0.218,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.69,
+    "pcp_po": 0.347,
+    "pcp_np": 0.321,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q99570",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.226,
+    "pcp_np": 0.477,
+    "result": 1
+  },
+  {
+    "unique_id1": "P14678",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.05,
+    "pcp_ne": 0.817,
+    "pcp_po": 0.117,
+    "pcp_np": 0.688,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXK5",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.782,
+    "pcp_po": 0.253,
+    "pcp_np": 0.448,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01574",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.754,
+    "pcp_po": 0.257,
+    "pcp_np": 0.428,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6Q8B3",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.059,
+    "pcp_ne": 0.819,
+    "pcp_po": 0.28,
+    "pcp_np": 0.487,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UW49",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.243,
+    "pcp_np": 0.429,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q03135",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.747,
+    "pcp_po": 0.197,
+    "pcp_np": 0.511,
+    "result": 1
+  },
+  {
+    "unique_id1": "P55735",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.242,
+    "pcp_np": 0.466,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NRW7",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.726,
+    "pcp_po": 0.225,
+    "pcp_np": 0.451,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62280",
+    "pcp_pc": 0.241,
+    "pcp_nc": 0.076,
+    "pcp_ne": 0.684,
+    "pcp_po": 0.222,
+    "pcp_np": 0.424,
+    "result": 1
+  },
+  {
+    "unique_id1": "O60603",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.756,
+    "pcp_po": 0.242,
+    "pcp_np": 0.452,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2TAC6",
+    "pcp_pc": 0.176,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.69,
+    "pcp_po": 0.232,
+    "pcp_np": 0.428,
+    "result": 0
+  },
+  {
+    "unique_id1": "P46781",
+    "pcp_pc": 0.258,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.619,
+    "pcp_po": 0.124,
+    "pcp_np": 0.474,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5HY92",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.814,
+    "pcp_po": 0.3,
+    "pcp_np": 0.478,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q96EE3",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.761,
+    "pcp_po": 0.264,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5SRE5",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.105,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.256,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2M1V0",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.229,
+    "pcp_np": 0.51,
+    "result": 0
+  },
+  {
+    "unique_id1": "P11226",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.782,
+    "pcp_po": 0.21,
+    "pcp_np": 0.516,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VXJ0",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.08,
+    "pcp_ne": 0.802,
+    "pcp_po": 0.226,
+    "pcp_np": 0.506,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8TBF4",
+    "pcp_pc": 0.194,
+    "pcp_nc": 0.171,
+    "pcp_ne": 0.636,
+    "pcp_po": 0.217,
+    "pcp_np": 0.378,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZNB6",
+    "pcp_pc": 0.2,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.703,
+    "pcp_po": 0.297,
+    "pcp_np": 0.379,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P996",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.212,
+    "pcp_np": 0.492,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5EBL2",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.064,
+    "pcp_ne": 0.811,
+    "pcp_po": 0.263,
+    "pcp_np": 0.537,
+    "result": 0
+  },
+  {
+    "unique_id1": "P61247",
+    "pcp_pc": 0.216,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.663,
+    "pcp_po": 0.186,
+    "pcp_np": 0.439,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q58G82",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.282,
+    "pcp_np": 0.42,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3LXA3",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.797,
+    "pcp_po": 0.17,
+    "pcp_np": 0.603,
+    "result": 1
+  },
+  {
+    "unique_id1": "P31749",
+    "pcp_pc": 0.165,
+    "pcp_nc": 0.16,
+    "pcp_ne": 0.675,
+    "pcp_po": 0.198,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VV17",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.185,
+    "pcp_np": 0.553,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NXE6",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.224,
+    "pcp_np": 0.499,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JU67",
+    "pcp_pc": 0.179,
+    "pcp_nc": 0.146,
+    "pcp_ne": 0.675,
+    "pcp_po": 0.223,
+    "pcp_np": 0.412,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01889",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.135,
+    "pcp_ne": 0.729,
+    "pcp_po": 0.254,
+    "pcp_np": 0.461,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5U623",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.282,
+    "pcp_np": 0.368,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9H6L5",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.157,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.229,
+    "pcp_np": 0.489,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VWW1",
+    "pcp_pc": 0.102,
+    "pcp_nc": 0.086,
+    "pcp_ne": 0.812,
+    "pcp_po": 0.208,
+    "pcp_np": 0.565,
+    "result": 0
+  },
+  {
+    "unique_id1": "O95786",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.145,
+    "pcp_ne": 0.703,
+    "pcp_po": 0.217,
+    "pcp_np": 0.442,
+    "result": 1
+  },
+  {
+    "unique_id1": "O15162",
+    "pcp_pc": 0.079,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.821,
+    "pcp_po": 0.258,
+    "pcp_np": 0.519,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3SX64",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.062,
+    "pcp_ne": 0.799,
+    "pcp_po": 0.26,
+    "pcp_np": 0.522,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q17RH7",
+    "pcp_pc": 0.173,
+    "pcp_nc": 0.086,
+    "pcp_ne": 0.741,
+    "pcp_po": 0.41,
+    "pcp_np": 0.302,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6W3E5",
+    "pcp_pc": 0.143,
+    "pcp_nc": 0.083,
+    "pcp_ne": 0.774,
+    "pcp_po": 0.183,
+    "pcp_np": 0.555,
+    "result": 0
+  },
+  {
+    "unique_id1": "P57764",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.769,
+    "pcp_po": 0.236,
+    "pcp_np": 0.521,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P1K8",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.251,
+    "pcp_np": 0.443,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JUW0",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.164,
+    "pcp_ne": 0.678,
+    "pcp_po": 0.257,
+    "pcp_np": 0.409,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P582",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.089,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.196,
+    "pcp_np": 0.576,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q68D51",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.698,
+    "pcp_po": 0.234,
+    "pcp_np": 0.422,
+    "result": 0
+  },
+  {
+    "unique_id1": "P30556",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.053,
+    "pcp_ne": 0.83,
+    "pcp_po": 0.217,
+    "pcp_np": 0.563,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q13114",
+    "pcp_pc": 0.173,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.259,
+    "pcp_np": 0.403,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62241",
+    "pcp_pc": 0.279,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.625,
+    "pcp_po": 0.192,
+    "pcp_np": 0.385,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6GMV3",
+    "pcp_pc": 0.179,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.721,
+    "pcp_po": 0.179,
+    "pcp_np": 0.529,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6Y2X3",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.715,
+    "pcp_po": 0.194,
+    "pcp_np": 0.491,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PEY0",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.076,
+    "pcp_ne": 0.794,
+    "pcp_po": 0.224,
+    "pcp_np": 0.547,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8TEQ6",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.239,
+    "pcp_np": 0.462,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8WUM0",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.753,
+    "pcp_po": 0.247,
+    "pcp_np": 0.467,
+    "result": 1
+  },
+  {
+    "unique_id1": "P42677",
+    "pcp_pc": 0.226,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.702,
+    "pcp_po": 0.286,
+    "pcp_np": 0.405,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15198",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.107,
+    "pcp_ne": 0.752,
+    "pcp_po": 0.264,
+    "pcp_np": 0.461,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01571",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.275,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UX07",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.764,
+    "pcp_po": 0.175,
+    "pcp_np": 0.557,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VUJ9",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.691,
+    "pcp_po": 0.178,
+    "pcp_np": 0.502,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9C000",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.745,
+    "pcp_po": 0.234,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "P46782",
+    "pcp_pc": 0.181,
+    "pcp_nc": 0.108,
+    "pcp_ne": 0.711,
+    "pcp_po": 0.176,
+    "pcp_np": 0.475,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXC1",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.105,
+    "pcp_ne": 0.78,
+    "pcp_po": 0.234,
+    "pcp_np": 0.53,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62847",
+    "pcp_pc": 0.301,
+    "pcp_nc": 0.083,
+    "pcp_ne": 0.617,
+    "pcp_po": 0.165,
+    "pcp_np": 0.414,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62851",
+    "pcp_pc": 0.272,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.616,
+    "pcp_po": 0.136,
+    "pcp_np": 0.44,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T7N2",
+    "pcp_pc": 0.17,
+    "pcp_nc": 0.22,
+    "pcp_ne": 0.61,
+    "pcp_po": 0.207,
+    "pcp_np": 0.362,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14409",
+    "pcp_pc": 0.108,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.79,
+    "pcp_po": 0.226,
+    "pcp_np": 0.53,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q16378",
+    "pcp_pc": 0.142,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.231,
+    "pcp_np": 0.485,
+    "result": 0
+  },
+  {
+    "unique_id1": "P23396",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.107,
+    "pcp_ne": 0.724,
+    "pcp_po": 0.165,
+    "pcp_np": 0.547,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q68DY1",
+    "pcp_pc": 0.246,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.644,
+    "pcp_po": 0.29,
+    "pcp_np": 0.316,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6MZT1",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.704,
+    "pcp_po": 0.284,
+    "pcp_np": 0.397,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6H9L7",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.168,
+    "pcp_ne": 0.711,
+    "pcp_po": 0.229,
+    "pcp_np": 0.454,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62979",
+    "pcp_pc": 0.25,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.628,
+    "pcp_po": 0.224,
+    "pcp_np": 0.372,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3ZCX4",
+    "pcp_pc": 0.213,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.657,
+    "pcp_po": 0.276,
+    "pcp_np": 0.345,
+    "result": 0
+  },
+  {
+    "unique_id1": "P11940",
+    "pcp_pc": 0.148,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.209,
+    "pcp_np": 0.498,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9BYF1",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.76,
+    "pcp_po": 0.214,
+    "pcp_np": 0.48,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4KMQ2",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.753,
+    "pcp_po": 0.213,
+    "pcp_np": 0.49,
+    "result": 1
+  },
+  {
+    "unique_id1": "P78406",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.095,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.258,
+    "pcp_np": 0.454,
+    "result": 1
+  },
+  {
+    "unique_id1": "P57740",
+    "pcp_pc": 0.142,
+    "pcp_nc": 0.152,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.218,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VVH5",
+    "pcp_pc": 0.162,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.265,
+    "pcp_np": 0.423,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5MJ68",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.752,
+    "pcp_po": 0.241,
+    "pcp_np": 0.496,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q658Y4",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.24,
+    "pcp_np": 0.467,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q10589",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.228,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "P22090",
+    "pcp_pc": 0.217,
+    "pcp_nc": 0.087,
+    "pcp_ne": 0.696,
+    "pcp_po": 0.141,
+    "pcp_np": 0.513,
+    "result": 1
+  },
+  {
+    "unique_id1": "P31751",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.152,
+    "pcp_ne": 0.688,
+    "pcp_po": 0.2,
+    "pcp_np": 0.464,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15773",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.222,
+    "pcp_np": 0.456,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BRV8",
+    "pcp_pc": 0.164,
+    "pcp_nc": 0.188,
+    "pcp_ne": 0.647,
+    "pcp_po": 0.227,
+    "pcp_np": 0.401,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q14439",
+    "pcp_pc": 0.107,
+    "pcp_nc": 0.072,
+    "pcp_ne": 0.821,
+    "pcp_po": 0.25,
+    "pcp_np": 0.534,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5TBC7",
+    "pcp_pc": 0.067,
+    "pcp_nc": 0.135,
+    "pcp_ne": 0.798,
+    "pcp_po": 0.245,
+    "pcp_np": 0.509,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BUF7",
+    "pcp_pc": 0.1,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.825,
+    "pcp_po": 0.2,
+    "pcp_np": 0.583,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3MIN7",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.231,
+    "pcp_np": 0.503,
+    "result": 0
+  },
+  {
+    "unique_id1": "P35613",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.221,
+    "pcp_np": 0.488,
+    "result": 1
+  },
+  {
+    "unique_id1": "P01566",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.265,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62266",
+    "pcp_pc": 0.259,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.664,
+    "pcp_po": 0.119,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "P04233",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.233,
+    "pcp_np": 0.47,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2KJY2",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.277,
+    "pcp_np": 0.459,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3B726",
+    "pcp_pc": 0.172,
+    "pcp_nc": 0.151,
+    "pcp_ne": 0.678,
+    "pcp_po": 0.207,
+    "pcp_np": 0.429,
+    "result": 0
+  },
+  {
+    "unique_id1": "O95487",
+    "pcp_pc": 0.094,
+    "pcp_nc": 0.078,
+    "pcp_ne": 0.828,
+    "pcp_po": 0.304,
+    "pcp_np": 0.479,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4G148",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.752,
+    "pcp_po": 0.2,
+    "pcp_np": 0.511,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NZ67",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.082,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.196,
+    "pcp_np": 0.576,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PII3",
+    "pcp_pc": 0.199,
+    "pcp_nc": 0.197,
+    "pcp_ne": 0.604,
+    "pcp_po": 0.188,
+    "pcp_np": 0.392,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T6V5",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.15,
+    "pcp_ne": 0.701,
+    "pcp_po": 0.194,
+    "pcp_np": 0.472,
+    "result": 0
+  },
+  {
+    "unique_id1": "O43734",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.749,
+    "pcp_po": 0.226,
+    "pcp_np": 0.484,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q16557",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.813,
+    "pcp_po": 0.285,
+    "pcp_np": 0.47,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5MAI5",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.108,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.211,
+    "pcp_np": 0.467,
+    "result": 0
+  },
+  {
+    "unique_id1": "P23458",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.139,
+    "pcp_ne": 0.692,
+    "pcp_po": 0.212,
+    "pcp_np": 0.429,
+    "result": 1
+  },
+  {
+    "unique_id1": "P01568",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.265,
+    "pcp_np": 0.46,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3SY52",
+    "pcp_pc": 0.207,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.7,
+    "pcp_po": 0.306,
+    "pcp_np": 0.372,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15750",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.117,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.258,
+    "pcp_np": 0.478,
+    "result": 1
+  },
+  {
+    "unique_id1": "P01570",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.254,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q96J02",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.24,
+    "pcp_np": 0.452,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6YI46",
+    "pcp_pc": 0.082,
+    "pcp_nc": 0.05,
+    "pcp_ne": 0.868,
+    "pcp_po": 0.187,
+    "pcp_np": 0.655,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q07817",
+    "pcp_pc": 0.103,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.764,
+    "pcp_po": 0.219,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q52MB2",
+    "pcp_pc": 0.072,
+    "pcp_nc": 0.201,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.186,
+    "pcp_np": 0.531,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q24JQ0",
+    "pcp_pc": 0.091,
+    "pcp_nc": 0.041,
+    "pcp_ne": 0.868,
+    "pcp_po": 0.257,
+    "pcp_np": 0.588,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3KNT7",
+    "pcp_pc": 0.104,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.791,
+    "pcp_po": 0.227,
+    "pcp_np": 0.552,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q53G44",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.726,
+    "pcp_po": 0.212,
+    "pcp_np": 0.46,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q7Z3B4",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.793,
+    "pcp_po": 0.272,
+    "pcp_np": 0.473,
+    "result": 1
+  },
+  {
+    "unique_id1": "P61981",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.182,
+    "pcp_ne": 0.68,
+    "pcp_po": 0.235,
+    "pcp_np": 0.389,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VTH9",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.738,
+    "pcp_po": 0.245,
+    "pcp_np": 0.442,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4LEZ3",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.155,
+    "pcp_ne": 0.69,
+    "pcp_po": 0.187,
+    "pcp_np": 0.484,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6AZW8",
+    "pcp_pc": 0.272,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.619,
+    "pcp_po": 0.311,
+    "pcp_np": 0.266,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3MIW9",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.323,
+    "pcp_np": 0.364,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15760",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.055,
+    "pcp_ne": 0.817,
+    "pcp_po": 0.277,
+    "pcp_np": 0.501,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5HYM0",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.246,
+    "pcp_np": 0.423,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5XG92",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.082,
+    "pcp_ne": 0.786,
+    "pcp_po": 0.201,
+    "pcp_np": 0.544,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5TFQ8",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.784,
+    "pcp_po": 0.246,
+    "pcp_np": 0.497,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JT82",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.093,
+    "pcp_ne": 0.792,
+    "pcp_po": 0.283,
+    "pcp_np": 0.463,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P499",
+    "pcp_pc": 0.094,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.84,
+    "pcp_po": 0.214,
+    "pcp_np": 0.594,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q07157",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.141,
+    "pcp_ne": 0.698,
+    "pcp_po": 0.239,
+    "pcp_np": 0.419,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4G112",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.797,
+    "pcp_po": 0.289,
+    "pcp_np": 0.463,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q13546",
+    "pcp_pc": 0.142,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.729,
+    "pcp_po": 0.232,
+    "pcp_np": 0.437,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NSX1",
+    "pcp_pc": 0.203,
+    "pcp_nc": 0.221,
+    "pcp_ne": 0.577,
+    "pcp_po": 0.104,
+    "pcp_np": 0.441,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8N3R9",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.161,
+    "pcp_ne": 0.67,
+    "pcp_po": 0.193,
+    "pcp_np": 0.43,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62942",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.722,
+    "pcp_po": 0.194,
+    "pcp_np": 0.519,
+    "result": 1
+  },
+  {
+    "unique_id1": "P01893",
+    "pcp_pc": 0.138,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.243,
+    "pcp_np": 0.472,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TYW1",
+    "pcp_pc": 0.226,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.646,
+    "pcp_po": 0.291,
+    "pcp_np": 0.315,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14653",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.197,
+    "pcp_np": 0.534,
+    "result": 1
+  },
+  {
+    "unique_id1": "P30511",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.231,
+    "pcp_np": 0.483,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5M9Q1",
+    "pcp_pc": 0.264,
+    "pcp_nc": 0.164,
+    "pcp_ne": 0.572,
+    "pcp_po": 0.251,
+    "pcp_np": 0.296,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VTH2",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.056,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.294,
+    "pcp_np": 0.441,
+    "result": 0
+  },
+  {
+    "unique_id1": "P00973",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.738,
+    "pcp_po": 0.248,
+    "pcp_np": 0.458,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62258",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.2,
+    "pcp_ne": 0.663,
+    "pcp_po": 0.188,
+    "pcp_np": 0.431,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9Y2I7",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.265,
+    "pcp_np": 0.426,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62269",
+    "pcp_pc": 0.27,
+    "pcp_nc": 0.105,
+    "pcp_ne": 0.625,
+    "pcp_po": 0.138,
+    "pcp_np": 0.447,
+    "result": 1
+  },
+  {
+    "unique_id1": "P61769",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.244,
+    "pcp_np": 0.429,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62854",
+    "pcp_pc": 0.278,
+    "pcp_nc": 0.061,
+    "pcp_ne": 0.661,
+    "pcp_po": 0.148,
+    "pcp_np": 0.47,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZN11",
+    "pcp_pc": 0.222,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.682,
+    "pcp_po": 0.254,
+    "pcp_np": 0.379,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NUM6",
+    "pcp_pc": 0.162,
+    "pcp_nc": 0.15,
+    "pcp_ne": 0.689,
+    "pcp_po": 0.204,
+    "pcp_np": 0.448,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15695",
+    "pcp_pc": 0.248,
+    "pcp_nc": 0.169,
+    "pcp_ne": 0.582,
+    "pcp_po": 0.244,
+    "pcp_np": 0.296,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PJG2",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.234,
+    "pcp_np": 0.481,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JXA9",
+    "pcp_pc": 0.096,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.804,
+    "pcp_po": 0.266,
+    "pcp_np": 0.506,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6ZNE5",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.256,
+    "pcp_np": 0.404,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZMD2",
+    "pcp_pc": 0.07,
+    "pcp_nc": 0.066,
+    "pcp_ne": 0.863,
+    "pcp_po": 0.225,
+    "pcp_np": 0.619,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q53QW1",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.284,
+    "pcp_np": 0.484,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UXU4",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.779,
+    "pcp_po": 0.221,
+    "pcp_np": 0.526,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2VWP7",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.781,
+    "pcp_po": 0.252,
+    "pcp_np": 0.485,
+    "result": 0
+  },
+  {
+    "unique_id1": "O14786",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.745,
+    "pcp_po": 0.23,
+    "pcp_np": 0.467,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXX5",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.081,
+    "pcp_ne": 0.791,
+    "pcp_po": 0.248,
+    "pcp_np": 0.516,
+    "result": 0
+  },
+  {
+    "unique_id1": "P55212",
+    "pcp_pc": 0.167,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.696,
+    "pcp_po": 0.208,
+    "pcp_np": 0.451,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5SZJ8",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.724,
+    "pcp_po": 0.283,
+    "pcp_np": 0.362,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6IEE7",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.765,
+    "pcp_po": 0.23,
+    "pcp_np": 0.521,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P1R4",
+    "pcp_pc": 0.173,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.197,
+    "pcp_np": 0.484,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q52LR7",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.264,
+    "pcp_np": 0.389,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q7KZF4",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.704,
+    "pcp_po": 0.19,
+    "pcp_np": 0.477,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q53GI3",
+    "pcp_pc": 0.203,
+    "pcp_nc": 0.143,
+    "pcp_ne": 0.654,
+    "pcp_po": 0.253,
+    "pcp_np": 0.369,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q16553",
+    "pcp_pc": 0.061,
+    "pcp_nc": 0.038,
+    "pcp_ne": 0.901,
+    "pcp_po": 0.275,
+    "pcp_np": 0.58,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5FWF6",
+    "pcp_pc": 0.224,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.671,
+    "pcp_po": 0.268,
+    "pcp_np": 0.367,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14974",
+    "pcp_pc": 0.1,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.219,
+    "pcp_np": 0.495,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q96F46",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.753,
+    "pcp_po": 0.212,
+    "pcp_np": 0.518,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6PKG0",
+    "pcp_pc": 0.178,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.68,
+    "pcp_po": 0.211,
+    "pcp_np": 0.439,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3I5F7",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.724,
+    "pcp_po": 0.152,
+    "pcp_np": 0.556,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8N1F7",
+    "pcp_pc": 0.136,
+    "pcp_nc": 0.139,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.227,
+    "pcp_np": 0.455,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VZ52",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.155,
+    "pcp_ne": 0.689,
+    "pcp_po": 0.224,
+    "pcp_np": 0.422,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4VNC0",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.794,
+    "pcp_po": 0.241,
+    "pcp_np": 0.514,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14C87",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.737,
+    "pcp_po": 0.233,
+    "pcp_np": 0.47,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VZB9",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.792,
+    "pcp_po": 0.26,
+    "pcp_np": 0.5,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q7Z434",
+    "pcp_pc": 0.093,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.809,
+    "pcp_po": 0.27,
+    "pcp_np": 0.504,
+    "result": 1
+  },
+  {
+    "unique_id1": "P50570",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.131,
+    "pcp_ne": 0.718,
+    "pcp_po": 0.198,
+    "pcp_np": 0.48,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9BZZ2",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.087,
+    "pcp_ne": 0.809,
+    "pcp_po": 0.252,
+    "pcp_np": 0.528,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6X784",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.76,
+    "pcp_po": 0.278,
+    "pcp_np": 0.429,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4G0F5",
+    "pcp_pc": 0.179,
+    "pcp_nc": 0.149,
+    "pcp_ne": 0.673,
+    "pcp_po": 0.205,
+    "pcp_np": 0.426,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BVL2",
+    "pcp_pc": 0.075,
+    "pcp_nc": 0.053,
+    "pcp_ne": 0.871,
+    "pcp_po": 0.317,
+    "pcp_np": 0.508,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q14593",
+    "pcp_pc": 0.244,
+    "pcp_nc": 0.086,
+    "pcp_ne": 0.67,
+    "pcp_po": 0.269,
+    "pcp_np": 0.355,
+    "result": 0
+  },
+  {
+    "unique_id1": "P09429",
+    "pcp_pc": 0.251,
+    "pcp_nc": 0.26,
+    "pcp_ne": 0.488,
+    "pcp_po": 0.13,
+    "pcp_np": 0.34,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9H840",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.107,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.206,
+    "pcp_np": 0.542,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXH9",
+    "pcp_pc": 0.136,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.258,
+    "pcp_np": 0.465,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UWJ1",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.775,
+    "pcp_po": 0.196,
+    "pcp_np": 0.557,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2T9L4",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.167,
+    "pcp_ne": 0.696,
+    "pcp_po": 0.253,
+    "pcp_np": 0.427,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5TAH2",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.093,
+    "pcp_ne": 0.802,
+    "pcp_po": 0.233,
+    "pcp_np": 0.526,
+    "result": 0
+  },
+  {
+    "unique_id1": "O60443",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.76,
+    "pcp_po": 0.222,
+    "pcp_np": 0.512,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9UKX7",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.216,
+    "pcp_np": 0.449,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15404",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.747,
+    "pcp_po": 0.191,
+    "pcp_np": 0.462,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6ZN54",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.139,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.236,
+    "pcp_np": 0.445,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UXI7",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.088,
+    "pcp_ne": 0.779,
+    "pcp_po": 0.249,
+    "pcp_np": 0.487,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UN86",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.168,
+    "pcp_ne": 0.672,
+    "pcp_po": 0.17,
+    "pcp_np": 0.459,
+    "result": 1
+  },
+  {
+    "unique_id1": "P19838",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.736,
+    "pcp_po": 0.206,
+    "pcp_np": 0.494,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ZN28",
+    "pcp_pc": 0.142,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.737,
+    "pcp_po": 0.224,
+    "pcp_np": 0.468,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VXU1",
+    "pcp_pc": 0.072,
+    "pcp_nc": 0.087,
+    "pcp_ne": 0.841,
+    "pcp_po": 0.274,
+    "pcp_np": 0.548,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q53RD9",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.797,
+    "pcp_po": 0.292,
+    "pcp_np": 0.465,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14641",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.252,
+    "pcp_np": 0.475,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q66K66",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.061,
+    "pcp_ne": 0.819,
+    "pcp_po": 0.194,
+    "pcp_np": 0.622,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q1ZZU3",
+    "pcp_pc": 0.187,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.196,
+    "pcp_np": 0.485,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q96C10",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.229,
+    "pcp_np": 0.473,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q495N2",
+    "pcp_pc": 0.062,
+    "pcp_nc": 0.053,
+    "pcp_ne": 0.885,
+    "pcp_po": 0.249,
+    "pcp_np": 0.596,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P4D5",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.246,
+    "pcp_np": 0.482,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6MZW2",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.238,
+    "pcp_np": 0.488,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15620",
+    "pcp_pc": 0.068,
+    "pcp_nc": 0.039,
+    "pcp_ne": 0.894,
+    "pcp_po": 0.251,
+    "pcp_np": 0.595,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9P253",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.718,
+    "pcp_po": 0.206,
+    "pcp_np": 0.496,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2L4Q9",
+    "pcp_pc": 0.089,
+    "pcp_nc": 0.087,
+    "pcp_ne": 0.825,
+    "pcp_po": 0.233,
+    "pcp_np": 0.575,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q13283",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.155,
+    "pcp_ne": 0.7,
+    "pcp_po": 0.174,
+    "pcp_np": 0.481,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q32ZL2",
+    "pcp_pc": 0.087,
+    "pcp_nc": 0.072,
+    "pcp_ne": 0.841,
+    "pcp_po": 0.234,
+    "pcp_np": 0.561,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14590",
+    "pcp_pc": 0.215,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.684,
+    "pcp_po": 0.313,
+    "pcp_np": 0.333,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2NL98",
+    "pcp_pc": 0.154,
+    "pcp_nc": 0.154,
+    "pcp_ne": 0.692,
+    "pcp_po": 0.154,
+    "pcp_np": 0.527,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q92617",
+    "pcp_pc": 0.188,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.713,
+    "pcp_po": 0.21,
+    "pcp_np": 0.474,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6TDU7",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.175,
+    "pcp_ne": 0.669,
+    "pcp_po": 0.203,
+    "pcp_np": 0.429,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q99836",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.233,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6IFH4",
+    "pcp_pc": 0.08,
+    "pcp_nc": 0.045,
+    "pcp_ne": 0.875,
+    "pcp_po": 0.279,
+    "pcp_np": 0.574,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9NNX6",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.265,
+    "pcp_np": 0.443,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8NHX9",
+    "pcp_pc": 0.094,
+    "pcp_nc": 0.081,
+    "pcp_ne": 0.824,
+    "pcp_po": 0.199,
+    "pcp_np": 0.589,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q13404",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.762,
+    "pcp_po": 0.204,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8NEB9",
+    "pcp_pc": 0.148,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.718,
+    "pcp_po": 0.225,
+    "pcp_np": 0.453,
+    "result": 1
+  },
+  {
+    "unique_id1": "P56962",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.192,
+    "pcp_np": 0.483,
+    "result": 1
+  },
+  {
+    "unique_id1": "P09651",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.766,
+    "pcp_po": 0.234,
+    "pcp_np": 0.476,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q30KP8",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.026,
+    "pcp_ne": 0.846,
+    "pcp_po": 0.231,
+    "pcp_np": 0.564,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5XX13",
+    "pcp_pc": 0.168,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.234,
+    "pcp_np": 0.449,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3KPI0",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.089,
+    "pcp_ne": 0.812,
+    "pcp_po": 0.294,
+    "pcp_np": 0.468,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5TH69",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.25,
+    "pcp_np": 0.473,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8NAC3",
+    "pcp_pc": 0.109,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.788,
+    "pcp_po": 0.211,
+    "pcp_np": 0.556,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2M2H8",
+    "pcp_pc": 0.08,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.829,
+    "pcp_po": 0.306,
+    "pcp_np": 0.456,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q69YN2",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.232,
+    "pcp_np": 0.463,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6IPT4",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.251,
+    "pcp_np": 0.486,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q04917",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.183,
+    "pcp_ne": 0.683,
+    "pcp_po": 0.215,
+    "pcp_np": 0.411,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q96HA1",
+    "pcp_pc": 0.103,
+    "pcp_nc": 0.045,
+    "pcp_ne": 0.852,
+    "pcp_po": 0.299,
+    "pcp_np": 0.531,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6T4P5",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.769,
+    "pcp_po": 0.194,
+    "pcp_np": 0.557,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NUM9",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.787,
+    "pcp_po": 0.211,
+    "pcp_np": 0.548,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9NVJ2",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.726,
+    "pcp_po": 0.199,
+    "pcp_np": 0.473,
+    "result": 1
+  },
+  {
+    "unique_id1": "P47901",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.064,
+    "pcp_ne": 0.83,
+    "pcp_po": 0.241,
+    "pcp_np": 0.564,
+    "result": 1
+  },
+  {
+    "unique_id1": "P49790",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.077,
+    "pcp_ne": 0.822,
+    "pcp_po": 0.338,
+    "pcp_np": 0.437,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q01196",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.073,
+    "pcp_ne": 0.81,
+    "pcp_po": 0.278,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6X9E4",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.78,
+    "pcp_po": 0.274,
+    "pcp_np": 0.472,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q96PD4",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.798,
+    "pcp_po": 0.264,
+    "pcp_np": 0.485,
+    "result": 1
+  },
+  {
+    "unique_id1": "O14893",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.229,
+    "pcp_np": 0.486,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9GZQ8",
+    "pcp_pc": 0.176,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.688,
+    "pcp_po": 0.208,
+    "pcp_np": 0.448,
+    "result": 1
+  },
+  {
+    "unique_id1": "P31947",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.194,
+    "pcp_ne": 0.673,
+    "pcp_po": 0.202,
+    "pcp_np": 0.44,
+    "result": 1
+  },
+  {
+    "unique_id1": "P63104",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.184,
+    "pcp_ne": 0.686,
+    "pcp_po": 0.233,
+    "pcp_np": 0.412,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P5S2",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.791,
+    "pcp_po": 0.267,
+    "pcp_np": 0.467,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4G1C9",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.174,
+    "pcp_ne": 0.692,
+    "pcp_po": 0.189,
+    "pcp_np": 0.459,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P1S2",
+    "pcp_pc": 0.19,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.694,
+    "pcp_po": 0.177,
+    "pcp_np": 0.476,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q68BL8",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.257,
+    "pcp_np": 0.443,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q13287",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.173,
+    "pcp_ne": 0.671,
+    "pcp_po": 0.228,
+    "pcp_np": 0.404,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9UKA8",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.191,
+    "pcp_ne": 0.689,
+    "pcp_po": 0.228,
+    "pcp_np": 0.432,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15366",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.808,
+    "pcp_po": 0.271,
+    "pcp_np": 0.504,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8IUD6",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.752,
+    "pcp_po": 0.262,
+    "pcp_np": 0.472,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q496Y0",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.133,
+    "pcp_ne": 0.71,
+    "pcp_po": 0.208,
+    "pcp_np": 0.469,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6ZNW5",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.104,
+    "pcp_ne": 0.777,
+    "pcp_po": 0.179,
+    "pcp_np": 0.566,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6JEL2",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.214,
+    "pcp_np": 0.48,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6IPR3",
+    "pcp_pc": 0.185,
+    "pcp_nc": 0.151,
+    "pcp_ne": 0.664,
+    "pcp_po": 0.197,
+    "pcp_np": 0.409,
+    "result": 0
+  },
+  {
+    "unique_id1": "P52292",
+    "pcp_pc": 0.108,
+    "pcp_nc": 0.117,
+    "pcp_ne": 0.775,
+    "pcp_po": 0.21,
+    "pcp_np": 0.503,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q4G0T1",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.78,
+    "pcp_po": 0.195,
+    "pcp_np": 0.566,
+    "result": 0
+  },
+  {
+    "unique_id1": "P07900",
+    "pcp_pc": 0.167,
+    "pcp_nc": 0.206,
+    "pcp_ne": 0.627,
+    "pcp_po": 0.194,
+    "pcp_np": 0.391,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5H9T9",
+    "pcp_pc": 0.082,
+    "pcp_nc": 0.207,
+    "pcp_ne": 0.71,
+    "pcp_po": 0.212,
+    "pcp_np": 0.485,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8NI35",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.146,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.218,
+    "pcp_np": 0.475,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9H2X3",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.739,
+    "pcp_po": 0.278,
+    "pcp_np": 0.426,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5BKT4",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.044,
+    "pcp_ne": 0.85,
+    "pcp_po": 0.237,
+    "pcp_np": 0.581,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JU00",
+    "pcp_pc": 0.14,
+    "pcp_nc": 0.108,
+    "pcp_ne": 0.752,
+    "pcp_po": 0.216,
+    "pcp_np": 0.477,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3ZCQ3",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.761,
+    "pcp_po": 0.176,
+    "pcp_np": 0.566,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15238",
+    "pcp_pc": 0.113,
+    "pcp_nc": 0.078,
+    "pcp_ne": 0.809,
+    "pcp_po": 0.272,
+    "pcp_np": 0.475,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UY11",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.789,
+    "pcp_po": 0.258,
+    "pcp_np": 0.512,
+    "result": 0
+  },
+  {
+    "unique_id1": "P08865",
+    "pcp_pc": 0.102,
+    "pcp_nc": 0.136,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.21,
+    "pcp_np": 0.522,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62304",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.228,
+    "pcp_np": 0.457,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3ZCN5",
+    "pcp_pc": 0.103,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.778,
+    "pcp_po": 0.301,
+    "pcp_np": 0.428,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BYX4",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.154,
+    "pcp_ne": 0.7,
+    "pcp_po": 0.209,
+    "pcp_np": 0.43,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q66K14",
+    "pcp_pc": 0.128,
+    "pcp_nc": 0.145,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.222,
+    "pcp_np": 0.481,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P444",
+    "pcp_pc": 0.143,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.216,
+    "pcp_np": 0.447,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q68BL7",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.121,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.252,
+    "pcp_np": 0.445,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6A555",
+    "pcp_pc": 0.173,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.756,
+    "pcp_po": 0.236,
+    "pcp_np": 0.472,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VT97",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.719,
+    "pcp_po": 0.238,
+    "pcp_np": 0.43,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q30KQ9",
+    "pcp_pc": 0.194,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.731,
+    "pcp_po": 0.254,
+    "pcp_np": 0.433,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6XYB7",
+    "pcp_pc": 0.146,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.177,
+    "pcp_np": 0.535,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9Y6B6",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.126,
+    "pcp_ne": 0.742,
+    "pcp_po": 0.192,
+    "pcp_np": 0.52,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q13427",
+    "pcp_pc": 0.313,
+    "pcp_nc": 0.162,
+    "pcp_ne": 0.525,
+    "pcp_po": 0.248,
+    "pcp_np": 0.227,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62861",
+    "pcp_pc": 0.195,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.173,
+    "pcp_np": 0.511,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6PCB8",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.116,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.254,
+    "pcp_np": 0.434,
+    "result": 0
+  },
+  {
+    "unique_id1": "P42224",
+    "pcp_pc": 0.14,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.224,
+    "pcp_np": 0.439,
+    "result": 1
+  },
+  {
+    "unique_id1": "O94826",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.712,
+    "pcp_po": 0.204,
+    "pcp_np": 0.467,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NUM4",
+    "pcp_pc": 0.106,
+    "pcp_nc": 0.091,
+    "pcp_ne": 0.803,
+    "pcp_po": 0.307,
+    "pcp_np": 0.431,
+    "result": 1
+  },
+  {
+    "unique_id1": "P35247",
+    "pcp_pc": 0.104,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.795,
+    "pcp_po": 0.179,
+    "pcp_np": 0.589,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWM5",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.07,
+    "pcp_ne": 0.814,
+    "pcp_po": 0.24,
+    "pcp_np": 0.504,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9H267",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.143,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.199,
+    "pcp_np": 0.472,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2NL82",
+    "pcp_pc": 0.175,
+    "pcp_nc": 0.146,
+    "pcp_ne": 0.679,
+    "pcp_po": 0.185,
+    "pcp_np": 0.471,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9C037",
+    "pcp_pc": 0.164,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.208,
+    "pcp_np": 0.468,
+    "result": 1
+  },
+  {
+    "unique_id1": "P05106",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.135,
+    "pcp_ne": 0.747,
+    "pcp_po": 0.28,
+    "pcp_np": 0.424,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6WBX8",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.254,
+    "pcp_np": 0.448,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JTH9",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.715,
+    "pcp_po": 0.201,
+    "pcp_np": 0.496,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BV40",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.72,
+    "pcp_po": 0.15,
+    "pcp_np": 0.5,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q49AH0",
+    "pcp_pc": 0.16,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.706,
+    "pcp_po": 0.219,
+    "pcp_np": 0.465,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5GAN6",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.139,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.236,
+    "pcp_np": 0.463,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9BW27",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.213,
+    "pcp_np": 0.486,
+    "result": 1
+  },
+  {
+    "unique_id1": "P63220",
+    "pcp_pc": 0.157,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.181,
+    "pcp_np": 0.482,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6DWJ6",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.037,
+    "pcp_ne": 0.847,
+    "pcp_po": 0.258,
+    "pcp_np": 0.547,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NT32",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.096,
+    "pcp_ne": 0.795,
+    "pcp_po": 0.195,
+    "pcp_np": 0.56,
+    "result": 0
+  },
+  {
+    "unique_id1": "P05013",
+    "pcp_pc": 0.148,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.725,
+    "pcp_po": 0.254,
+    "pcp_np": 0.444,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q14576",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.079,
+    "pcp_ne": 0.807,
+    "pcp_po": 0.232,
+    "pcp_np": 0.52,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62316",
+    "pcp_pc": 0.212,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.678,
+    "pcp_po": 0.161,
+    "pcp_np": 0.424,
+    "result": 1
+  },
+  {
+    "unique_id1": "P30613",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.761,
+    "pcp_po": 0.178,
+    "pcp_np": 0.559,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWD8",
+    "pcp_pc": 0.098,
+    "pcp_nc": 0.098,
+    "pcp_ne": 0.804,
+    "pcp_po": 0.188,
+    "pcp_np": 0.607,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6RSH7",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.777,
+    "pcp_po": 0.18,
+    "pcp_np": 0.532,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VU97",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.249,
+    "pcp_np": 0.455,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9Y239",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.759,
+    "pcp_po": 0.229,
+    "pcp_np": 0.49,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q8N6I4",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.822,
+    "pcp_po": 0.252,
+    "pcp_np": 0.546,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5HYL7",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.056,
+    "pcp_ne": 0.831,
+    "pcp_po": 0.264,
+    "pcp_np": 0.545,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4VX76",
+    "pcp_pc": 0.169,
+    "pcp_nc": 0.095,
+    "pcp_ne": 0.736,
+    "pcp_po": 0.266,
+    "pcp_np": 0.436,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VTQ0",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.758,
+    "pcp_po": 0.235,
+    "pcp_np": 0.487,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6P656",
+    "pcp_pc": 0.153,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.708,
+    "pcp_po": 0.203,
+    "pcp_np": 0.462,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6Y7W6",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.171,
+    "pcp_ne": 0.668,
+    "pcp_po": 0.247,
+    "pcp_np": 0.386,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15390",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.721,
+    "pcp_po": 0.204,
+    "pcp_np": 0.483,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5GJ75",
+    "pcp_pc": 0.171,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.205,
+    "pcp_np": 0.455,
+    "result": 0
+  },
+  {
+    "unique_id1": "P63279",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.184,
+    "pcp_np": 0.506,
+    "result": 1
+  },
+  {
+    "unique_id1": "P08648",
+    "pcp_pc": 0.102,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.795,
+    "pcp_po": 0.242,
+    "pcp_np": 0.521,
+    "result": 1
+  },
+  {
+    "unique_id1": "P05556",
+    "pcp_pc": 0.12,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.267,
+    "pcp_np": 0.409,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q04206",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.768,
+    "pcp_po": 0.223,
+    "pcp_np": 0.517,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15651",
+    "pcp_pc": 0.253,
+    "pcp_nc": 0.182,
+    "pcp_ne": 0.566,
+    "pcp_po": 0.182,
+    "pcp_np": 0.354,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PF04",
+    "pcp_pc": 0.22,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.679,
+    "pcp_po": 0.276,
+    "pcp_np": 0.353,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q16665",
+    "pcp_pc": 0.13,
+    "pcp_nc": 0.143,
+    "pcp_ne": 0.728,
+    "pcp_po": 0.276,
+    "pcp_np": 0.412,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6ISS4",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.763,
+    "pcp_po": 0.25,
+    "pcp_np": 0.5,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5SY80",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.775,
+    "pcp_po": 0.249,
+    "pcp_np": 0.481,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q92621",
+    "pcp_pc": 0.126,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.227,
+    "pcp_np": 0.499,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3LIE5",
+    "pcp_pc": 0.135,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.728,
+    "pcp_po": 0.216,
+    "pcp_np": 0.453,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6IMI4",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.221,
+    "pcp_np": 0.469,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q2M3X9",
+    "pcp_pc": 0.244,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.644,
+    "pcp_po": 0.287,
+    "pcp_np": 0.337,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VYY2",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.792,
+    "pcp_po": 0.213,
+    "pcp_np": 0.52,
+    "result": 0
+  },
+  {
+    "unique_id1": "O15530",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.234,
+    "pcp_np": 0.46,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2NKX9",
+    "pcp_pc": 0.229,
+    "pcp_nc": 0.151,
+    "pcp_ne": 0.62,
+    "pcp_po": 0.199,
+    "pcp_np": 0.404,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5T013",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.119,
+    "pcp_ne": 0.769,
+    "pcp_po": 0.152,
+    "pcp_np": 0.588,
+    "result": 0
+  },
+  {
+    "unique_id1": "P13747",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.729,
+    "pcp_po": 0.251,
+    "pcp_np": 0.464,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6XPR3",
+    "pcp_pc": 0.195,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.671,
+    "pcp_po": 0.416,
+    "pcp_np": 0.23,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q641Q3",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.736,
+    "pcp_po": 0.203,
+    "pcp_np": 0.521,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q8WTV0",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.824,
+    "pcp_po": 0.216,
+    "pcp_np": 0.565,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UX52",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.079,
+    "pcp_ne": 0.796,
+    "pcp_po": 0.238,
+    "pcp_np": 0.521,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62987",
+    "pcp_pc": 0.234,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.664,
+    "pcp_po": 0.219,
+    "pcp_np": 0.398,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62263",
+    "pcp_pc": 0.199,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.695,
+    "pcp_po": 0.185,
+    "pcp_np": 0.49,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWQ7",
+    "pcp_pc": 0.101,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.815,
+    "pcp_po": 0.294,
+    "pcp_np": 0.487,
+    "result": 0
+  },
+  {
+    "unique_id1": "O94855",
+    "pcp_pc": 0.102,
+    "pcp_nc": 0.08,
+    "pcp_ne": 0.818,
+    "pcp_po": 0.253,
+    "pcp_np": 0.52,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UXA7",
+    "pcp_pc": 0.086,
+    "pcp_nc": 0.062,
+    "pcp_ne": 0.852,
+    "pcp_po": 0.188,
+    "pcp_np": 0.606,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5SRI9",
+    "pcp_pc": 0.152,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.751,
+    "pcp_po": 0.242,
+    "pcp_np": 0.439,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9Y243",
+    "pcp_pc": 0.165,
+    "pcp_nc": 0.163,
+    "pcp_ne": 0.672,
+    "pcp_po": 0.207,
+    "pcp_np": 0.434,
+    "result": 1
+  },
+  {
+    "unique_id1": "P62314",
+    "pcp_pc": 0.244,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.672,
+    "pcp_po": 0.143,
+    "pcp_np": 0.487,
+    "result": 1
+  },
+  {
+    "unique_id1": "P04439",
+    "pcp_pc": 0.132,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.258,
+    "pcp_np": 0.471,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5SRN2",
+    "pcp_pc": 0.176,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.684,
+    "pcp_po": 0.254,
+    "pcp_np": 0.403,
+    "result": 0
+  },
+  {
+    "unique_id1": "P27487",
+    "pcp_pc": 0.116,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.277,
+    "pcp_np": 0.443,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5VTE0",
+    "pcp_pc": 0.162,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.171,
+    "pcp_np": 0.519,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q16236",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.17,
+    "pcp_ne": 0.709,
+    "pcp_po": 0.243,
+    "pcp_np": 0.418,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P9G4",
+    "pcp_pc": 0.087,
+    "pcp_nc": 0.153,
+    "pcp_ne": 0.76,
+    "pcp_po": 0.213,
+    "pcp_np": 0.47,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14258",
+    "pcp_pc": 0.162,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.727,
+    "pcp_po": 0.256,
+    "pcp_np": 0.433,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q96CW1",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.103,
+    "pcp_ne": 0.731,
+    "pcp_po": 0.209,
+    "pcp_np": 0.476,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q2VYF4",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.251,
+    "pcp_np": 0.462,
+    "result": 0
+  },
+  {
+    "unique_id1": "P49411",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.716,
+    "pcp_po": 0.152,
+    "pcp_np": 0.538,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15181",
+    "pcp_pc": 0.156,
+    "pcp_nc": 0.156,
+    "pcp_ne": 0.689,
+    "pcp_po": 0.159,
+    "pcp_np": 0.474,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3SY17",
+    "pcp_pc": 0.165,
+    "pcp_nc": 0.067,
+    "pcp_ne": 0.768,
+    "pcp_po": 0.195,
+    "pcp_np": 0.529,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62857",
+    "pcp_pc": 0.203,
+    "pcp_nc": 0.13,
+    "pcp_ne": 0.667,
+    "pcp_po": 0.232,
+    "pcp_np": 0.42,
+    "result": 1
+  },
+  {
+    "unique_id1": "P01567",
+    "pcp_pc": 0.143,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.73,
+    "pcp_po": 0.254,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q92793",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.075,
+    "pcp_ne": 0.811,
+    "pcp_po": 0.292,
+    "pcp_np": 0.471,
+    "result": 1
+  },
+  {
+    "unique_id1": "P17181",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.761,
+    "pcp_po": 0.257,
+    "pcp_np": 0.442,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6UWV2",
+    "pcp_pc": 0.136,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.757,
+    "pcp_po": 0.268,
+    "pcp_np": 0.468,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UHI6",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.748,
+    "pcp_po": 0.258,
+    "pcp_np": 0.447,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6SJ96",
+    "pcp_pc": 0.117,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.764,
+    "pcp_po": 0.251,
+    "pcp_np": 0.469,
+    "result": 0
+  },
+  {
+    "unique_id1": "P48551",
+    "pcp_pc": 0.089,
+    "pcp_nc": 0.161,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.243,
+    "pcp_np": 0.46,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TID7",
+    "pcp_pc": 0.2,
+    "pcp_nc": 0.202,
+    "pcp_ne": 0.597,
+    "pcp_po": 0.214,
+    "pcp_np": 0.32,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62701",
+    "pcp_pc": 0.217,
+    "pcp_nc": 0.095,
+    "pcp_ne": 0.688,
+    "pcp_po": 0.148,
+    "pcp_np": 0.502,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5T8P6",
+    "pcp_pc": 0.183,
+    "pcp_nc": 0.141,
+    "pcp_ne": 0.676,
+    "pcp_po": 0.218,
+    "pcp_np": 0.419,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5TH74",
+    "pcp_pc": 0.147,
+    "pcp_nc": 0.057,
+    "pcp_ne": 0.796,
+    "pcp_po": 0.278,
+    "pcp_np": 0.458,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PI73",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.819,
+    "pcp_po": 0.283,
+    "pcp_np": 0.509,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q4ZIN3",
+    "pcp_pc": 0.09,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.81,
+    "pcp_po": 0.195,
+    "pcp_np": 0.584,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UXT9",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.109,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.186,
+    "pcp_np": 0.551,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6V1P9",
+    "pcp_pc": 0.099,
+    "pcp_nc": 0.141,
+    "pcp_ne": 0.76,
+    "pcp_po": 0.239,
+    "pcp_np": 0.479,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UXM1",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.111,
+    "pcp_ne": 0.771,
+    "pcp_po": 0.248,
+    "pcp_np": 0.466,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VV52",
+    "pcp_pc": 0.219,
+    "pcp_nc": 0.137,
+    "pcp_ne": 0.644,
+    "pcp_po": 0.286,
+    "pcp_np": 0.337,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q86U44",
+    "pcp_pc": 0.153,
+    "pcp_nc": 0.14,
+    "pcp_ne": 0.707,
+    "pcp_po": 0.228,
+    "pcp_np": 0.452,
+    "result": 1
+  },
+  {
+    "unique_id1": "O00187",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.767,
+    "pcp_po": 0.264,
+    "pcp_np": 0.477,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6IQ32",
+    "pcp_pc": 0.141,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.789,
+    "pcp_po": 0.231,
+    "pcp_np": 0.519,
+    "result": 0
+  },
+  {
+    "unique_id1": "P51617",
+    "pcp_pc": 0.11,
+    "pcp_nc": 0.097,
+    "pcp_ne": 0.794,
+    "pcp_po": 0.24,
+    "pcp_np": 0.537,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q13241",
+    "pcp_pc": 0.089,
+    "pcp_nc": 0.101,
+    "pcp_ne": 0.81,
+    "pcp_po": 0.341,
+    "pcp_np": 0.402,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P4E1",
+    "pcp_pc": 0.161,
+    "pcp_nc": 0.179,
+    "pcp_ne": 0.661,
+    "pcp_po": 0.195,
+    "pcp_np": 0.404,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62249",
+    "pcp_pc": 0.219,
+    "pcp_nc": 0.082,
+    "pcp_ne": 0.699,
+    "pcp_po": 0.199,
+    "pcp_np": 0.486,
+    "result": 1
+  },
+  {
+    "unique_id1": "P07858",
+    "pcp_pc": 0.118,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.776,
+    "pcp_po": 0.254,
+    "pcp_np": 0.472,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5U5R9",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.11,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.218,
+    "pcp_np": 0.482,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9H074",
+    "pcp_pc": 0.113,
+    "pcp_nc": 0.157,
+    "pcp_ne": 0.731,
+    "pcp_po": 0.23,
+    "pcp_np": 0.459,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q16589",
+    "pcp_pc": 0.137,
+    "pcp_nc": 0.145,
+    "pcp_ne": 0.718,
+    "pcp_po": 0.235,
+    "pcp_np": 0.442,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15048",
+    "pcp_pc": 0.122,
+    "pcp_nc": 0.099,
+    "pcp_ne": 0.779,
+    "pcp_po": 0.221,
+    "pcp_np": 0.542,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14159",
+    "pcp_pc": 0.133,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.743,
+    "pcp_po": 0.264,
+    "pcp_np": 0.461,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NW34",
+    "pcp_pc": 0.18,
+    "pcp_nc": 0.086,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.228,
+    "pcp_np": 0.457,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5BIV9",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.046,
+    "pcp_ne": 0.834,
+    "pcp_po": 0.126,
+    "pcp_np": 0.695,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q569H4",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.74,
+    "pcp_po": 0.207,
+    "pcp_np": 0.48,
+    "result": 0
+  },
+  {
+    "unique_id1": "O15111",
+    "pcp_pc": 0.148,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.728,
+    "pcp_po": 0.23,
+    "pcp_np": 0.462,
+    "result": 1
+  },
+  {
+    "unique_id1": "P33076",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.122,
+    "pcp_ne": 0.764,
+    "pcp_po": 0.227,
+    "pcp_np": 0.523,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5DT21",
+    "pcp_pc": 0.198,
+    "pcp_nc": 0.07,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.291,
+    "pcp_np": 0.43,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62306",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.163,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.14,
+    "pcp_np": 0.523,
+    "result": 1
+  },
+  {
+    "unique_id1": "P39019",
+    "pcp_pc": 0.214,
+    "pcp_nc": 0.09,
+    "pcp_ne": 0.697,
+    "pcp_po": 0.172,
+    "pcp_np": 0.497,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q16661",
+    "pcp_pc": 0.08,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.848,
+    "pcp_po": 0.304,
+    "pcp_np": 0.527,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6UX73",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.107,
+    "pcp_ne": 0.781,
+    "pcp_po": 0.244,
+    "pcp_np": 0.52,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5JR12",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.113,
+    "pcp_ne": 0.749,
+    "pcp_po": 0.204,
+    "pcp_np": 0.523,
+    "result": 0
+  },
+  {
+    "unique_id1": "P48740",
+    "pcp_pc": 0.124,
+    "pcp_nc": 0.132,
+    "pcp_ne": 0.744,
+    "pcp_po": 0.256,
+    "pcp_np": 0.445,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9NRS4",
+    "pcp_pc": 0.105,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.78,
+    "pcp_po": 0.229,
+    "pcp_np": 0.524,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5W0Z9",
+    "pcp_pc": 0.115,
+    "pcp_nc": 0.088,
+    "pcp_ne": 0.797,
+    "pcp_po": 0.26,
+    "pcp_np": 0.488,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NXR4",
+    "pcp_pc": 0.159,
+    "pcp_nc": 0.124,
+    "pcp_ne": 0.717,
+    "pcp_po": 0.185,
+    "pcp_np": 0.502,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q66K41",
+    "pcp_pc": 0.164,
+    "pcp_nc": 0.043,
+    "pcp_ne": 0.794,
+    "pcp_po": 0.225,
+    "pcp_np": 0.55,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q567V2",
+    "pcp_pc": 0.112,
+    "pcp_nc": 0.068,
+    "pcp_ne": 0.82,
+    "pcp_po": 0.204,
+    "pcp_np": 0.597,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6NUK4",
+    "pcp_pc": 0.165,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.733,
+    "pcp_po": 0.239,
+    "pcp_np": 0.478,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6ZMR3",
+    "pcp_pc": 0.136,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.75,
+    "pcp_po": 0.199,
+    "pcp_np": 0.503,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3ZCT1",
+    "pcp_pc": 0.257,
+    "pcp_nc": 0.092,
+    "pcp_ne": 0.65,
+    "pcp_po": 0.296,
+    "pcp_np": 0.32,
+    "result": 0
+  },
+  {
+    "unique_id1": "P62937",
+    "pcp_pc": 0.145,
+    "pcp_nc": 0.115,
+    "pcp_ne": 0.739,
+    "pcp_po": 0.17,
+    "pcp_np": 0.515,
+    "result": 1
+  },
+  {
+    "unique_id1": "P35232",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.746,
+    "pcp_po": 0.188,
+    "pcp_np": 0.533,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q15617",
+    "pcp_pc": 0.087,
+    "pcp_nc": 0.045,
+    "pcp_ne": 0.868,
+    "pcp_po": 0.277,
+    "pcp_np": 0.556,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q14952",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.102,
+    "pcp_ne": 0.773,
+    "pcp_po": 0.26,
+    "pcp_np": 0.484,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q6PKH6",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.078,
+    "pcp_ne": 0.772,
+    "pcp_po": 0.185,
+    "pcp_np": 0.543,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9UPT9",
+    "pcp_pc": 0.175,
+    "pcp_nc": 0.105,
+    "pcp_ne": 0.72,
+    "pcp_po": 0.257,
+    "pcp_np": 0.423,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q9HC29",
+    "pcp_pc": 0.129,
+    "pcp_nc": 0.106,
+    "pcp_ne": 0.765,
+    "pcp_po": 0.207,
+    "pcp_np": 0.528,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q71UM5",
+    "pcp_pc": 0.226,
+    "pcp_nc": 0.071,
+    "pcp_ne": 0.702,
+    "pcp_po": 0.286,
+    "pcp_np": 0.405,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6N063",
+    "pcp_pc": 0.131,
+    "pcp_nc": 0.134,
+    "pcp_ne": 0.734,
+    "pcp_po": 0.194,
+    "pcp_np": 0.517,
+    "result": 0
+  },
+  {
+    "unique_id1": "P05109",
+    "pcp_pc": 0.204,
+    "pcp_nc": 0.161,
+    "pcp_ne": 0.634,
+    "pcp_po": 0.151,
+    "pcp_np": 0.441,
+    "result": 1
+  },
+  {
+    "unique_id1": "P06400",
+    "pcp_pc": 0.15,
+    "pcp_nc": 0.127,
+    "pcp_ne": 0.723,
+    "pcp_po": 0.228,
+    "pcp_np": 0.446,
+    "result": 1
+  },
+  {
+    "unique_id1": "P35610",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.084,
+    "pcp_ne": 0.789,
+    "pcp_po": 0.2,
+    "pcp_np": 0.547,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6TDP4",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.1,
+    "pcp_ne": 0.762,
+    "pcp_po": 0.226,
+    "pcp_np": 0.506,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q92499",
+    "pcp_pc": 0.158,
+    "pcp_nc": 0.128,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.196,
+    "pcp_np": 0.48,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q5TC79",
+    "pcp_pc": 0.149,
+    "pcp_nc": 0.123,
+    "pcp_ne": 0.728,
+    "pcp_po": 0.256,
+    "pcp_np": 0.431,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q15035",
+    "pcp_pc": 0.151,
+    "pcp_nc": 0.073,
+    "pcp_ne": 0.776,
+    "pcp_po": 0.208,
+    "pcp_np": 0.532,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5VV63",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.085,
+    "pcp_ne": 0.804,
+    "pcp_po": 0.298,
+    "pcp_np": 0.436,
+    "result": 0
+  },
+  {
+    "unique_id1": "P01562",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.254,
+    "pcp_np": 0.45,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6NUJ1",
+    "pcp_pc": 0.121,
+    "pcp_nc": 0.094,
+    "pcp_ne": 0.785,
+    "pcp_po": 0.246,
+    "pcp_np": 0.512,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9P2Y5",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.114,
+    "pcp_ne": 0.731,
+    "pcp_po": 0.235,
+    "pcp_np": 0.448,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6P3S6",
+    "pcp_pc": 0.123,
+    "pcp_nc": 0.093,
+    "pcp_ne": 0.784,
+    "pcp_po": 0.245,
+    "pcp_np": 0.505,
+    "result": 0
+  },
+  {
+    "unique_id1": "P57678",
+    "pcp_pc": 0.125,
+    "pcp_nc": 0.12,
+    "pcp_ne": 0.755,
+    "pcp_po": 0.223,
+    "pcp_np": 0.511,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q49SQ1",
+    "pcp_pc": 0.111,
+    "pcp_nc": 0.048,
+    "pcp_ne": 0.841,
+    "pcp_po": 0.273,
+    "pcp_np": 0.526,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9C029",
+    "pcp_pc": 0.155,
+    "pcp_nc": 0.131,
+    "pcp_ne": 0.714,
+    "pcp_po": 0.2,
+    "pcp_np": 0.493,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q6PK18",
+    "pcp_pc": 0.166,
+    "pcp_nc": 0.129,
+    "pcp_ne": 0.705,
+    "pcp_po": 0.197,
+    "pcp_np": 0.48,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q3LI77",
+    "pcp_pc": 0.1,
+    "pcp_nc": 0.012,
+    "pcp_ne": 0.888,
+    "pcp_po": 0.519,
+    "pcp_np": 0.344,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q5QJ74",
+    "pcp_pc": 0.134,
+    "pcp_nc": 0.146,
+    "pcp_ne": 0.719,
+    "pcp_po": 0.212,
+    "pcp_np": 0.458,
+    "result": 0
+  },
+  {
+    "unique_id1": "Q9NRG9",
+    "pcp_pc": 0.114,
+    "pcp_nc": 0.081,
+    "pcp_ne": 0.806,
+    "pcp_po": 0.227,
+    "pcp_np": 0.553,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q16637",
+    "pcp_pc": 0.119,
+    "pcp_nc": 0.112,
+    "pcp_ne": 0.769,
+    "pcp_po": 0.235,
+    "pcp_np": 0.476,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q06124",
+    "pcp_pc": 0.172,
+    "pcp_nc": 0.142,
+    "pcp_ne": 0.686,
+    "pcp_po": 0.231,
+    "pcp_np": 0.41,
+    "result": 1
+  },
+  {
+    "unique_id1": "Q3T8J9",
+    "pcp_pc": 0.139,
+    "pcp_nc": 0.173,
+    "pcp_ne": 0.688,
+    "pcp_po": 0.223,
+    "pcp_np": 0.433,
+    "result": 0
+  },
+  {
+    "unique_id1": "P32881",
+    "pcp_pc": 0.127,
+    "pcp_nc": 0.138,
+    "pcp_ne": 0.735,
+    "pcp_po": 0.27,
+    "pcp_np": 0.444,
+    "result": 1
+  },
+  {
+    "unique_id1": "O00327",
+    "pcp_pc": 0.144,
+    "pcp_nc": 0.125,
+    "pcp_ne": 0.732,
+    "pcp_po": 0.241,
+    "pcp_np": 0.454,
+    "result": 1
+  },
+  {
+    "unique_id1": "P60866",
+    "pcp_pc": 0.218,
+    "pcp_nc": 0.118,
+    "pcp_ne": 0.664,
+    "pcp_po": 0.193,
+    "pcp_np": 0.454,
+    "result": 1
+  }
+]
